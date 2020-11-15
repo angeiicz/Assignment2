@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Assignment Solution for Module 2</title>
+<header>Assignment Solution for Module 2</header>
 <link rel="stylesheet" href="~/css/style.css">
 </head>
 
