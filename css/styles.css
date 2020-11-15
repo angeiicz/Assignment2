@@ -7,8 +7,8 @@ h1 {
 
 h2 {
   position: absolute
-  top: 0
-  right: 0;
+  top: 0px
+  right: 0px;
 }
 
 p {
@@ -25,6 +25,14 @@ p {
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
+}
+
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
 }
 
 /********** Desktop version only **********/
